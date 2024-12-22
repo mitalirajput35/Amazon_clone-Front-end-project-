@@ -35,15 +35,12 @@ This project is an attempt to create a simplified version of the Amazon homepage
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
 For any questions or feedback, feel free to contact the project maintainer:
-- Email: your-email@example.com
-- GitHub: [your-github-username](https://github.com/your-username)
+- [Linkedin](https://linkedin.com/in/mitalirajput35)
+- [GitHub](https://github.com/mitalirajput35)
 
 ## Acknowledgments
 
